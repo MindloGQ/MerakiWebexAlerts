@@ -29,7 +29,7 @@ for security reasons credentials should be stored in a separate file or as envir
 ## Execution
 The script can be run in multiple ways:
 
-1. From terminal by typing: python3 /path/to/script_file
+1. From terminal by typing: python3 /path/to/merakiWebexAlerts.py
 
 2. From any IDE that supports python3
 
