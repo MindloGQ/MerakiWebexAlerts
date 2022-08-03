@@ -19,3 +19,10 @@ Webex Room ID
 Webex Bearer token
 
 for security reasons credentials should be stored in a separate file or as environment variables and imported into the script instead of being embedded in the script itself.
+
+## Execution
+The script can be run in multiple ways:
+
+1. From terminal by typing: python3 /path/to/script_file
+2. From any IDE that supports python3
+3. As a cronjob
