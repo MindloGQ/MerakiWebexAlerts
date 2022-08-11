@@ -123,7 +123,7 @@ The following commands are executed in the terminal.
 
 2.  And head over to your webex platform. If any of the uplinks in the meraki platform are down, there will be a new message in the selected meraki room:
     
-    ![uplinkStatus](images/uplinkStatus)
+    ![uplinkStatus](images/uplinkStatus.png)
 
 
 ### LICENSE
