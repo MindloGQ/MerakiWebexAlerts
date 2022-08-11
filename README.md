@@ -128,4 +128,4 @@ The following commands are executed in the terminal.
 
 ### LICENSE
 
-Provided under Cisco Sample Code License, for details see [LICENSE](LICENSE.md)
+Provided under Cisco Sample Code License, for details see [LICENSE](license.md)
